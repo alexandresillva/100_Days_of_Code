@@ -1,4 +1,4 @@
-# Profiles REST API
+# 100 Days of Code - The Complete Python Pro Bootcamp for 2021
 
 [![GitHub](https://img.shields.io/github/license/plotly/dash.svg?color=dark-green)](https://github.com/alexandresillva/100_Days_of_Code/blob/main/LICENSE)
 
